@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js
+
+PATH: 
+  C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts;C:\Users\spope\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin\;C:\Users\spope\Downloads\zulu11.41.23-ca-jdk11.0.8-win_x64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\spope\AppData\Roaming\npm;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts;C:\Users\spope\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin\;C:\Users\spope\Downloads\zulu11.41.23-ca-jdk11.0.8-win_x64\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\spope\AppData\Local\Programs\Microsoft VS Code\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  10.20.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\spope\myDev\docker\docker-react\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:310:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
